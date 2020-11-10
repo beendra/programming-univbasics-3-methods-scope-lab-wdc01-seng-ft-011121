@@ -14,8 +14,8 @@ def link
   puts $saying
 end
 
-def all_phrases(mario, toadstool, link)
-  puts mario
-  puts toadstool
-  puts link
+def all_phrases
+ puts $phrase
+ puts $status
+ puts $saying
 end
