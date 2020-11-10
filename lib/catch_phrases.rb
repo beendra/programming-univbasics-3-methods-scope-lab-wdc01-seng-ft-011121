@@ -1,3 +1,6 @@
+$phrase = "It's-a me, Mario!"
+$status = "Thank you Mario! But Our Princess Is In Another Castle!"
+$saying = "It's Dangerous To Go Alone! Take This."
 
 def mario
   phrase = "It's-a me, Mario!"
